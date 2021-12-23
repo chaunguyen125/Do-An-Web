@@ -1,0 +1,19 @@
+.playlist-item__img {
+    height: 200px;
+}
+
+.header-content__download-img {
+    height: 20px;
+}
+
+.header-content__details {
+    font-size: 14px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.carousel-inner {
+    text-align: -webkit-center;
+}
